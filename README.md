@@ -1,9 +1,15 @@
-# React TypeScript Starter Pack
+Page layout using HTML5, CSS3, SASS and BEM methodology.
 
-To use this template click `Use this template`
+1. [DEMO LINK](https://ksenia-didukh.github.io/phone-catalog-react/)
 
-### Available Scripts
+Used technologies:
+HTML
+SASS
+Slick slider
+React
+React Router
+REST API
+Fetch
+localSotrage
 
-`Deploy` - available to deploy your application to gh-pages
-
-`SCSS Preprocessor` - available to write your styles with modern style language
+2. [Figma design](https://www.figma.com/file/uEetgWenSRxk9jgiym6Yzp/Phone-catalog-redesign)
