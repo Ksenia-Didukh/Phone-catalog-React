@@ -1,6 +1,6 @@
 Page layout using HTML5, CSS3, SASS and BEM methodology.
 
-1. [DEMO LINK](https://ksenia-didukh.github.io/phone-catalog-react/)
+1. [DEMO LINK](https://ksenia-didukh.github.io/Phone-catalog-React/)
 
 Used technologies:
 HTML
